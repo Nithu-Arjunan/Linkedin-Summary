@@ -1,0 +1,1 @@
+This project is about creating an AI Agent that takes the username as input and checks for the linkedin url using tool. With this url another tool is used to scrap the data and finally a summary is generated.
